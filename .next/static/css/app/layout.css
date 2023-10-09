@@ -1,9 +1,9 @@
-/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[3].use[2]!./node_modules/next/font/google/target.css?{"path":"app/layout.tsx","import":"Inter","arguments":[{"variable":"--font-inter","subsets":["latin"]}],"variableName":"inter"} ***!
-  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[13].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"app/layout.tsx","import":"Inter","arguments":[{"variable":"--font-inter","subsets":["latin"]}],"variableName":"inter"} ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /* cyrillic-ext */
 @font-face {
-  font-family: '__Inter_a64ecd';
+  font-family: '__Inter_e66fe9';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
@@ -12,7 +12,7 @@
 }
 /* cyrillic */
 @font-face {
-  font-family: '__Inter_a64ecd';
+  font-family: '__Inter_e66fe9';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
@@ -21,7 +21,7 @@
 }
 /* greek-ext */
 @font-face {
-  font-family: '__Inter_a64ecd';
+  font-family: '__Inter_e66fe9';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
@@ -30,7 +30,7 @@
 }
 /* greek */
 @font-face {
-  font-family: '__Inter_a64ecd';
+  font-family: '__Inter_e66fe9';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
@@ -39,7 +39,7 @@
 }
 /* vietnamese */
 @font-face {
-  font-family: '__Inter_a64ecd';
+  font-family: '__Inter_e66fe9';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
@@ -48,7 +48,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: '__Inter_a64ecd';
+  font-family: '__Inter_e66fe9';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
@@ -57,23 +57,23 @@
 }
 /* latin */
 @font-face {
-  font-family: '__Inter_a64ecd';
+  font-family: '__Inter_e66fe9';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
   src: url(/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}@font-face {font-family: '__Inter_Fallback_a64ecd';src: local("Arial");ascent-override: 90.20%;descent-override: 22.48%;line-gap-override: 0.00%;size-adjust: 107.40%
-}.__className_a64ecd {font-family: '__Inter_a64ecd', '__Inter_Fallback_a64ecd';font-style: normal
-}.__variable_a64ecd {--font-inter: '__Inter_a64ecd', '__Inter_Fallback_a64ecd'
+}@font-face {font-family: '__Inter_Fallback_e66fe9';src: local("Arial");ascent-override: 90.20%;descent-override: 22.48%;line-gap-override: 0.00%;size-adjust: 107.40%
+}.__className_e66fe9 {font-family: '__Inter_e66fe9', '__Inter_Fallback_e66fe9';font-style: normal
+}.__variable_e66fe9 {--font-inter: '__Inter_e66fe9', '__Inter_Fallback_e66fe9'
 }
 
-/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[3].use[2]!./node_modules/next/font/google/target.css?{"path":"app/layout.tsx","import":"IBM_Plex_Mono","arguments":[{"variable":"--font-plex-mono","subsets":["latin"],"weight":["400","500"]}],"variableName":"plexMono"} ***!
-  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[13].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"app/layout.tsx","import":"IBM_Plex_Mono","arguments":[{"variable":"--font-plex-mono","subsets":["latin"],"weight":["400","500"]}],"variableName":"plexMono"} ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /* cyrillic-ext */
 @font-face {
-  font-family: '__IBM_Plex_Mono_228e82';
+  font-family: '__IBM_Plex_Mono_b094e2';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -82,7 +82,7 @@
 }
 /* cyrillic */
 @font-face {
-  font-family: '__IBM_Plex_Mono_228e82';
+  font-family: '__IBM_Plex_Mono_b094e2';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -91,7 +91,7 @@
 }
 /* vietnamese */
 @font-face {
-  font-family: '__IBM_Plex_Mono_228e82';
+  font-family: '__IBM_Plex_Mono_b094e2';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -100,7 +100,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: '__IBM_Plex_Mono_228e82';
+  font-family: '__IBM_Plex_Mono_b094e2';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -109,7 +109,7 @@
 }
 /* latin */
 @font-face {
-  font-family: '__IBM_Plex_Mono_228e82';
+  font-family: '__IBM_Plex_Mono_b094e2';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -118,7 +118,7 @@
 }
 /* cyrillic-ext */
 @font-face {
-  font-family: '__IBM_Plex_Mono_228e82';
+  font-family: '__IBM_Plex_Mono_b094e2';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -127,7 +127,7 @@
 }
 /* cyrillic */
 @font-face {
-  font-family: '__IBM_Plex_Mono_228e82';
+  font-family: '__IBM_Plex_Mono_b094e2';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -136,7 +136,7 @@
 }
 /* vietnamese */
 @font-face {
-  font-family: '__IBM_Plex_Mono_228e82';
+  font-family: '__IBM_Plex_Mono_b094e2';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -145,7 +145,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: '__IBM_Plex_Mono_228e82';
+  font-family: '__IBM_Plex_Mono_b094e2';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -154,20 +154,20 @@
 }
 /* latin */
 @font-face {
-  font-family: '__IBM_Plex_Mono_228e82';
+  font-family: '__IBM_Plex_Mono_b094e2';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
   src: url(/_next/static/media/684e5662d94c69e1-s.p.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}@font-face {font-family: '__IBM_Plex_Mono_Fallback_228e82';src: local("Arial");ascent-override: 75.41%;descent-override: 20.23%;line-gap-override: 0.00%;size-adjust: 135.93%
-}.__className_228e82 {font-family: '__IBM_Plex_Mono_228e82', '__IBM_Plex_Mono_Fallback_228e82';font-style: normal
-}.__variable_228e82 {--font-plex-mono: '__IBM_Plex_Mono_228e82', '__IBM_Plex_Mono_Fallback_228e82'
+}@font-face {font-family: '__IBM_Plex_Mono_Fallback_b094e2';src: local("Arial");ascent-override: 75.41%;descent-override: 20.23%;line-gap-override: 0.00%;size-adjust: 135.93%
+}.__className_b094e2 {font-family: '__IBM_Plex_Mono_b094e2', '__IBM_Plex_Mono_Fallback_b094e2';font-style: normal
+}.__variable_b094e2 {--font-plex-mono: '__IBM_Plex_Mono_b094e2', '__IBM_Plex_Mono_Fallback_b094e2'
 }
 
-/*!***********************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[3]!./app/globals.css ***!
-  \***********************************************************************************************************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[3]!./app/globals.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************/
 /*
 ! tailwindcss v3.3.1 | MIT License | https://tailwindcss.com
 *//*
@@ -699,8 +699,18 @@ video {
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
+.my-16 {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+.mb-16 {
+  margin-bottom: 4rem;
+}
 .mb-6 {
   margin-bottom: 1.5rem;
+}
+.mb-8 {
+  margin-bottom: 2rem;
 }
 .mt-2 {
   margin-top: 0.5rem;
@@ -714,6 +724,9 @@ video {
 .flex {
   display: flex;
 }
+.inline-flex {
+  display: inline-flex;
+}
 .grid {
   display: grid;
 }
@@ -723,8 +736,14 @@ video {
 .h-24 {
   height: 6rem;
 }
+.h-\[200px\] {
+  height: 200px;
+}
 .h-\[300px\] {
   height: 300px;
+}
+.h-full {
+  height: 100%;
 }
 .w-\[300px\] {
   width: 300px;
@@ -771,6 +790,15 @@ video {
 }
 .gap-4 {
   gap: 1rem;
+}
+.gap-6 {
+  gap: 1.5rem;
+}
+.gap-1 {
+  gap: 0.25rem;
+}
+.gap-1\.5 {
+  gap: 0.375rem;
 }
 .gap-x-2 {
   -moz-column-gap: 0.5rem;
@@ -860,6 +888,10 @@ video {
   font-size: 2.25rem;
   line-height: 2.5rem;
 }
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
@@ -870,6 +902,10 @@ video {
 .text-emerald-400 {
   --tw-text-opacity: 1;
   color: rgb(52 211 153 / var(--tw-text-opacity));
+}
+.text-gray-300 {
+  --tw-text-opacity: 1;
+  color: rgb(209 213 219 / var(--tw-text-opacity));
 }
 .text-gray-400 {
   --tw-text-opacity: 1;
@@ -956,6 +992,10 @@ video {
 
 @media (min-width: 640px) {
 
+  .sm\:h-\[300px\] {
+    height: 300px;
+  }
+
   .sm\:flex-row {
     flex-direction: row;
   }
@@ -1000,6 +1040,10 @@ video {
     height: 755px;
   }
 
+  .lg\:min-h-full {
+    min-height: 100%;
+  }
+
   .lg\:w-\[420px\] {
     width: 420px;
   }
@@ -1014,6 +1058,10 @@ video {
 
   .lg\:flex-row {
     flex-direction: row;
+  }
+
+  .lg\:gap-12 {
+    gap: 3rem;
   }
 
   .lg\:pb-\[110px\] {
